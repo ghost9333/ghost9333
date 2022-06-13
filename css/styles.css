@@ -47,6 +47,7 @@ a {
   padding: 0px 45px 0px 45px;
 }
 
+
 .titremenu_menu {
   display: flex;
   justify-content: center;
@@ -57,6 +58,7 @@ a {
   border-top-right-radius: 50px;
   background-color: white;
 }
+
 
 /***********Version Desktop**************/
 
@@ -287,7 +289,6 @@ h3 {
   padding-right: 25px;
   margin-bottom: 4px;
 }
-
 /********PAGE D'ACCUEIL*********/
 /********Anime coeur*********/
 .single-box {
