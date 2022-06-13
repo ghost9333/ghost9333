@@ -27,11 +27,6 @@ a {
   height: 615px;
   object-fit: cover;
 }
-
-
-
-
-
 .menu-entier {
   display: flex;
   justify-content: space-evenly;
