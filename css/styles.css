@@ -80,7 +80,7 @@ h3 {
   position: fixed;
   z-index: 3;
   background-color: white;
-  animation: cachefond 5s forwards;
+  animation: cachefond 3s forwards;
   font-family: "Shrikhand";
   font-size: 50px;
 }
