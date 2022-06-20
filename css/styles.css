@@ -284,7 +284,7 @@ h3 {
 .price {
   font-size: 15px;
   text-align:right;
-  padding-left: 40px;
+  padding-left: 15px;
   padding-top:24px;
   margin-bottom: 4px;
 }
@@ -632,17 +632,10 @@ footer a {
   }
 
   .logo {
-    display: flex;
     margin-top: 15px;
   }
-  .logo img {
-    display: block;
-    margin: 0 auto;
-  }
-  .logo i {
-    padding: 10px;
-  }
-
+  
+  
   /**********Restaurant*********/
   .nouveau {
     margin-right: 14px;
@@ -652,53 +645,11 @@ footer a {
   .restaurant {
     margin-top: 40px;
     margin-bottom: 50px;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
     width: 100%;
     background-color: #f4f4f4;
   }
-
   .card_restaurant {
-    box-shadow: -1px 4px 9px 0px rgba(0, 0, 0, 0.2);
-    border-radius: 30px;
     margin: 20px 7px 0px 7px;
-  }
-
-  .card_img {
-    display: flex;
-    justify-content: center;
-    object-fit: cover;
-  }
-  .card_img img {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    object-fit: cover;
-    width: 100%;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    height: 200px;
-  }
-
-  .card_body {
-    background-color: white;
-    display: flex;
-    flex-direction: row;
-    height: 80px;
-    justify-content: space-between;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-  }
-  .card_body p {
-    margin: 5px 0px 0px 15px;
-    font-family: "Roboto";
-  }
-  .card_body h3 {
-    margin: 10px 0px 0px 15px;
-  }
-  .card_body .card-body-title {
-    padding-top: 5px;
   }
 
   /*********Fonctionnnement*********/
@@ -706,11 +657,9 @@ footer a {
     width: auto;
     display: flex;
     justify-content: center;
-    flex-direction: column;
   }
 
   .fonctionnement-row {
-    display: flex;
     justify-content: center;
     flex-direction: column;
   }
@@ -718,7 +667,7 @@ footer a {
   .box-number {
     margin: 20px;
     width: 30px;
-    background: #8f29be;
+    background: #9356dc;
     height: 30px;
     line-height: 30px;
     text-align: center;
