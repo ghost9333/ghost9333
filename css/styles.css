@@ -168,8 +168,6 @@ h3 {
     animation-delay: 1.7s;
   }
   
-  
-  
   @keyframes fadeIn {
     0% {
       opacity: 0;
