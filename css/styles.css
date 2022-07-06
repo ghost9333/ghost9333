@@ -366,6 +366,7 @@ h3 {
   transform: scale(1.1);
   color: #ff79da;
   color: white;
+  box-shadow: -1px 10px 15px 1px rgba(0, 0, 0, 0.2);
 }
 
 .explorer h4 {
